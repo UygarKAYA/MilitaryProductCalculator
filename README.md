@@ -1,1 +1,1 @@
-# Military-Product-Calculator
+# MilitaryProductCalculator
